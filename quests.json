@@ -1,0 +1,1203 @@
+{
+  "updatedAt": "2026-04-17T04:59:35.028Z",
+  "source": "https://game8.jp/mhwilds/674407",
+  "quests": [
+    {
+      "id": "quest_001",
+      "title": "ババコンガ、垂涎のアレを好む",
+      "monsters": [
+        "ババコンガ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "ヨダレダケ"
+      ],
+      "period": "4月15日(水)9:00〜4月22日(水)8:59",
+      "condition": "上位★5（HR9〜）",
+      "category": "active_limited"
+    },
+    {
+      "id": "quest_002",
+      "title": "特殊任務・ゴグマジオスの討伐",
+      "monsters": [
+        "ゴグマジオス"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "3月12日(木)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_003",
+      "title": "閃電猛りて、その粋やよし！",
+      "monsters": [
+        "レダウ",
+        "ラギアクルス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「蒼世ノ侍α」",
+        "武器「蒼星ノ太刀」",
+        "武器「蒼世ノ龍弓」",
+        "オトモ防具「蒼世ネコα」",
+        "チャーム「蒼世ノ風鈴」"
+      ],
+      "period": "3月4日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_004",
+      "title": "天人達のエルピス",
+      "monsters": [
+        "ゾシア"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "3月4日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_005",
+      "title": "光彩陸離の輝きよ！",
+      "monsters": [
+        "歴戦レダウ",
+        "歴戦ゲリョス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「フルドレスα」",
+        "オトモ防具「スターネコα」"
+      ],
+      "period": "2月28日(土)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_006",
+      "title": "七色のかばね",
+      "monsters": [
+        "？？？？？15匹の討伐"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "2月25日(水)9:00〜",
+      "condition": "上位★4（HR16〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_007",
+      "title": "ハンター達の永い夢",
+      "monsters": [
+        "歴戦タマミツネ",
+        "歴戦ケマトリス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "武器「砕ケシ封鏡ノ剣」",
+        "限定チャーム"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_008",
+      "title": "東方の鐘冴ゆ道は凍えけり",
+      "monsters": [
+        "歴戦王ジンダハド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_009",
+      "title": "黒き揺り篭の吾子",
+      "monsters": [
+        "歴戦王ヌエグドラ"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_010",
+      "title": "トゥオネラの番人より告ぐ",
+      "monsters": [
+        "歴戦王ウズトゥナ"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_011",
+      "title": "楼蘭の睥睨者",
+      "monsters": [
+        "歴戦王レダウ"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_012",
+      "title": "孤独から出でし君という自由",
+      "monsters": [
+        "歴戦王アルシュベルド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "防具「シュバルカγ」",
+        "歴戦錬磨の証",
+        "古びたお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_013",
+      "title": "天滄無窮",
+      "monsters": [
+        "歴戦リオレウス",
+        "ラギアクルス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "重鎧玉",
+        "堅鎧玉"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_014",
+      "title": "咎は戦禍に睡臥する",
+      "monsters": [
+        "ゴグマジオス"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "変異した兵装物"
+      ],
+      "period": "12月16日(火)13:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_015",
+      "title": "ジュデッカの心臓",
+      "monsters": [
+        "歴戦王ジンダハド"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "防具「ダハディラγ」"
+      ],
+      "period": "12月24日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_016",
+      "title": "闇き漁火よ、呪われてあれ",
+      "monsters": [
+        "歴戦王ヌエグドラ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "防具「エグゾルスγ」"
+      ],
+      "period": "10月22日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_017",
+      "title": "零式オメガプラネテス検証戦",
+      "monsters": [
+        "オメガプラネテス"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "防具「オメガα」",
+        "武器「ブレードオブオメガ」",
+        "武器「ロッドオブオメガ」",
+        "チャーム",
+        "ジェスチャー"
+      ],
+      "period": "9月29日(月)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_018",
+      "title": "白い暴れん坊、手に負えない",
+      "monsters": [
+        "歴戦護竜アンジャナフ亜種"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "堅鎧玉"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_019",
+      "title": "暗闇からケミーコス",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 2,
+      "rewards": [
+        "紅蓮石"
+      ],
+      "period": "9月29日(月)9:00〜",
+      "condition": "下位★2（HR3〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_020",
+      "title": "螺旋とうねりの試運転",
+      "monsters": [
+        "バーラハーラ"
+      ],
+      "difficulty": 1,
+      "rewards": [
+        "上鎧玉",
+        "鎧玉"
+      ],
+      "period": "9月29日(月)9:00〜",
+      "condition": "下位★1（HR2〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_021",
+      "title": "その舌はとても強情",
+      "monsters": [
+        "歴戦チャタカブラ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "堅鎧玉",
+        "尖鎧玉"
+      ],
+      "period": "9月29日(月)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_022",
+      "title": "漣の古き都に眠れば愛し",
+      "monsters": [
+        "歴戦王ウズトゥナ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「トゥナムルγ」"
+      ],
+      "period": "7月23日(水)9:00〜",
+      "condition": "上位★8（HR50〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_023",
+      "title": "無言の閃耀",
+      "monsters": [
+        "歴戦王レダウ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「レダゼルトγ」"
+      ],
+      "period": "7月23日(水)9:00〜",
+      "condition": "上位★8（HR50〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_024",
+      "title": "痺れる森の野獣",
+      "monsters": [
+        "歴戦ドシャグマ",
+        "歴戦ラバラバリナ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "武器「ねこ？ぱんち」",
+        "オトモ防具「」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_025",
+      "title": "快気怪鳥の快進撃",
+      "monsters": [
+        "歴戦イャンクック"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "光るお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_026",
+      "title": "長いものには巻かれてござれ",
+      "monsters": [
+        "歴戦タマミツネ",
+        "歴戦バーラハーラ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「はりきりモリバーα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_027",
+      "title": "王と私は眩闇を知る",
+      "monsters": [
+        "歴戦リオレウス",
+        "歴戦護竜リオレウス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「アナライズアイα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_028",
+      "title": "霜烈のホワイトアウト",
+      "monsters": [
+        "歴戦ドドブランゴ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「オリオンα」",
+        "オトモ防具「」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_029",
+      "title": "狼藉なるものの武弁",
+      "monsters": [
+        "歴戦ドシャグマ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "光るお守り"
+      ],
+      "period": "2月11日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_030",
+      "title": "竜都の中心で肉を焦がした者",
+      "monsters": [
+        "歴戦ケマトリス",
+        "歴戦リオレウス"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "武器「双剣テイスティ」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★9（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_031",
+      "title": "調伏の獣",
+      "monsters": [
+        "歴戦アジャラカン"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "光るお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_032",
+      "title": "桃毛達も歌う恋歌",
+      "monsters": [
+        "ババコンガ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "オトモ防具「」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_033",
+      "title": "暴れん坊、ここに極まれり",
+      "monsters": [
+        "歴戦護竜アンジャナフ亜種"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "光るお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_034",
+      "title": "ぬるい光は私に不要",
+      "monsters": [
+        "歴戦ゲリョス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「ゼレドロα」",
+        "アルマの着せ替え装備"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_035",
+      "title": "ヒラバミ達の収穫祭",
+      "monsters": [
+        "ヒラバミ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「ハーベストα」",
+        "オトモ防具「ゴーストネコαシリーズ」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_036",
+      "title": "狂威の食うか食われるか",
+      "monsters": [
+        "狂竜化ゲリョス",
+        "狂竜化ネルスキュラ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "防具「スカルフェイスα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_037",
+      "title": "主亡き爪",
+      "monsters": [
+        "歴戦護竜オドガロン亜種"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "古びた武器片"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_038",
+      "title": "白髭妍哉",
+      "monsters": [
+        "歴戦ドドブランゴ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "光るお守り"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_039",
+      "title": "解き放たれた兇爪",
+      "monsters": [
+        "歴戦護竜オドガロン亜種"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "防具「にくきゅうミトンα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_040",
+      "title": "蛮行容貌",
+      "monsters": [
+        "ドシャグマ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "防具「ドシャグマフェイクα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_041",
+      "title": "碧落に咆を奏でたり",
+      "monsters": [
+        "リオレウス"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "ギター演奏のジェスチャー"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR16〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_042",
+      "title": "大好物は鉱石です！！",
+      "monsters": [
+        "歴戦グラビモス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "武器「鋼鉄ピッケル」",
+        "武器「マイニングピッケル」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_043",
+      "title": "千の光はすべて刃",
+      "monsters": [
+        "セルレギオス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "武器用の装飾品"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_044",
+      "title": "白き王子の豪勇魂",
+      "monsters": [
+        "歴戦ドドブランゴ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "防具用の装飾品"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_045",
+      "title": "収棘のエニグマ",
+      "monsters": [
+        "歴戦シーウー"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "ハンターランクポイントが多く入手可能"
+      ],
+      "period": "2月11日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_046",
+      "title": "毒をもって毒が二倍",
+      "monsters": [
+        "ププロポル",
+        "ゲリョス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「ダイバーα」",
+        "オトモ防具「アロハネコα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_047",
+      "title": "桃色気分が私を焦がす",
+      "monsters": [
+        "リオレイア",
+        "ババコンガ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "防具「アンダーリムグラスα」",
+        "防具「ハートグラスα」",
+        "武器「砲モロコシ」",
+        "アルマの着せ替え装備"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_048",
+      "title": "燃えろ、ネイキッドボディ",
+      "monsters": [
+        "ヌエグドラ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "防具「一枚羽根の首飾りα」",
+        "オトモ防具「ネコ鈴の首輪α」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_049",
+      "title": "森の覇者、それはイャンクック",
+      "monsters": [
+        "歴戦イャンクック"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "オトモ防具「なりきりモリバーα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_050",
+      "title": "三人寄ればケマトリス！",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「アイルーフェイクα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR16〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_051",
+      "title": "封印を解いた暴れん坊",
+      "monsters": [
+        "護竜アンジャナフ亜種"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "防具「封印の龍骸布α」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_052",
+      "title": "その閃光は私に効かない",
+      "monsters": [
+        "歴戦シーウー"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "防具「封印の眼帯α」",
+        "アルマの着せ替え装備"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_053",
+      "title": "カラボスの娘達",
+      "monsters": [
+        "ラバラバリナ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「ブロッサムα」",
+        "オトモ防具「パピネコαシリーズ」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR16〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_054",
+      "title": "炎尾竜はいつ歌う？",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「アワウタイズクα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_055",
+      "title": "異国の空と王",
+      "monsters": [
+        "歴戦護竜リオレウス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "レア7「アーティアパーツ」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_056",
+      "title": "哀愁と暴虐の白き獣",
+      "monsters": [
+        "護竜ドシャグマ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "ハンターランクポイントが多く入手可能"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_057",
+      "title": "砂がくれにし夜半の火影",
+      "monsters": [
+        "リオレイア"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "防具「調査隊の耳飾りα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_058",
+      "title": "砂傷だらけの荒者魂",
+      "monsters": [
+        "ドシャグマ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "光る珠・鎧"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★5（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_059",
+      "title": "バヨネットが踊る雨",
+      "monsters": [
+        "歴戦ラバラバリナ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "光る珠・剣"
+      ],
+      "period": "2月11日(水)9:00〜",
+      "condition": "上位★5（HR21〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_060",
+      "title": "豊穣清浄、怪鳥上々",
+      "monsters": [
+        "イャンクック"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "防具「ハナショウジョウα」"
+      ],
+      "period": "2月18日(水)9:00〜",
+      "condition": "上位★4（HR9〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "quest_061",
+      "title": "ププロポルは泣いてない",
+      "monsters": [
+        "歴戦ププロポル"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "防具「ププロフェイクα」",
+        "限定チャーム"
+      ],
+      "period": "4月22日(水)9:00〜5月13日(水)8:59",
+      "condition": "上位★10（HR100〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "quest_062",
+      "title": "極熱重鎧グラビモス",
+      "monsters": [
+        "歴戦グラビモス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "各地の追加食材が集めやすい"
+      ],
+      "period": "4月22日(水)9:00〜5月13日(水)8:59",
+      "condition": "上位★6（HR31〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "quest_063",
+      "title": "生き誇れ、野生の仔",
+      "monsters": [
+        "歴戦王アルシュベルド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "3月19日(木)9:00〜4月2日(木)8:59",
+      "condition": "上位★10（HR100〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_064",
+      "title": "夢に生きた者の階段",
+      "monsters": [
+        "アルシュベルド",
+        "ドシャグマ",
+        "レダウ"
+      ],
+      "difficulty": 7,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "1月21日(水)9:00〜2月25日(水)8:59",
+      "condition": "上位★7（HR41〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_065",
+      "title": "八種の黒詛",
+      "monsters": [
+        "ヌエグドラ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "1月21日(水)9:00〜2月25日(水)8:59",
+      "condition": "上位★6（HR41〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_066",
+      "title": "凍てつく威信",
+      "monsters": [
+        "ジンダハド"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "1月21日(水)9:00〜2月25日(水)8:59",
+      "condition": "上位★6（HR41〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_067",
+      "title": "凍え知れ、安寧の睡郷",
+      "monsters": [
+        "歴戦王ジンダハド"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "防具「ダハディラγ」",
+        "限定チャーム"
+      ],
+      "period": "1月7日(水)9:00〜1月21日(水)8:59",
+      "condition": "上位★9（HR100〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_068",
+      "title": "ひらけ昏の門",
+      "monsters": [
+        "ゴアマガラ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "12月24日(水)9:00〜2月3日(水)23:59",
+      "condition": "上位★6（HR41〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_069",
+      "title": "金の果実を欲す鳥",
+      "monsters": [
+        "イャンクック",
+        "ラバラバリナ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "12月17日(水)9:00〜2月4日(水)8:59",
+      "condition": "上位★4（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_070",
+      "title": "焼け落ちろ、黒岸の奈利",
+      "monsters": [
+        "歴戦王ヌエグドラ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "10月29日(水)9:00〜11月12日(水)8:59",
+      "condition": "上位★9（HR100〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_071",
+      "title": "刃翼の那由他",
+      "monsters": [
+        "セルレギオス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "10月8日(水)9:00〜10月22日(水)8:59",
+      "condition": "上位★6（HR31〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_072",
+      "title": "固い鎧と君の意志",
+      "monsters": [
+        "グラビモス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "10月1日(水)9:00〜11月05日(水)8:59",
+      "condition": "上位★8（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_073",
+      "title": "真の王たる者とは",
+      "monsters": [
+        "リオレウス"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "9月17日(水)9:00〜10月22日(水)8:59",
+      "condition": "上位★5（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_074",
+      "title": "頂への導火線",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "9月3日(水)9:00〜11月5日(水)8:59",
+      "condition": "上位★4（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_075",
+      "title": "啼き濡れろ、怒りの叢雨",
+      "monsters": [
+        "歴戦王ウズトゥナ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "7月29日(火)9:00〜8月12日(火)8:59",
+      "condition": "上位★8（HR50〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_076",
+      "title": "あわき朱華のうつろひ心",
+      "monsters": [
+        "タマミツネ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "7月9日(水)9:00〜7月23日(水)8:59",
+      "condition": "上位★5（HR21〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_077",
+      "title": "隠れ場所は油断の隙間",
+      "monsters": [
+        "シーウー"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "シルドニンニク"
+      ],
+      "period": "4月1日(水)9:00〜4月8日(水)8:59",
+      "condition": "上位★5（HR21〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_078",
+      "title": "狂おしくもププロポル",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "マッドシュリンプ"
+      ],
+      "period": "3月18日(水)9:00〜3月25日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_079",
+      "title": "影蜘蛛、頂を歩く",
+      "monsters": [
+        "ネルスキュラ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "フワフワ卵"
+      ],
+      "period": "3月25日(水)9:00〜4月1日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_080",
+      "title": "吹き荒べ、閃煌の嵐",
+      "monsters": [
+        "歴戦王レダウ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "5月7日(水)9:00〜5月21日(水)8:59",
+      "condition": "上位★8（HR50〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_081",
+      "title": "竜谷の跡地のドシャグマ",
+      "monsters": [
+        "ドシャグマ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "4月4日(金)9:00〜4月18日(金)8:59",
+      "condition": "上位★5（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "quest_082",
+      "title": "晩飯時のイグニッション",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "クナファチーズ"
+      ],
+      "period": "4月8日(水)9:00〜4月15日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    }
+  ]
+}
