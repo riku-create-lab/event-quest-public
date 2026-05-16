@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-11T01:46:26.044Z",
+  "updatedAt": "2026-05-16T12:55:56.612Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "quest_001",
+      "id": "q_b0521cca35",
       "title": "ププロポルは泣いてない",
       "monsters": [
         "歴戦ププロポル"
@@ -18,7 +18,7 @@
       "category": "active_limited"
     },
     {
-      "id": "quest_002",
+      "id": "q_c8539706b0",
       "title": "極熱重鎧グラビモス",
       "monsters": [
         "歴戦グラビモス"
@@ -32,7 +32,21 @@
       "category": "active_limited"
     },
     {
-      "id": "quest_003",
+      "id": "q_89d58a9764",
+      "title": "竜谷の跡地のドシャグマ",
+      "monsters": [
+        "ドシャグマ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "5月13日(水)9:00〜5月27日(水)8:59",
+      "condition": "上位★5（HR16〜）",
+      "category": "active_limited"
+    },
+    {
+      "id": "q_e32b69b8a0",
       "title": "特殊任務・ゴグマジオスの討伐",
       "monsters": [
         "ゴグマジオス"
@@ -47,7 +61,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_004",
+      "id": "q_da0e3f2769",
       "title": "閃電猛りて、その粋やよし！",
       "monsters": [
         "レダウ",
@@ -66,7 +80,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_005",
+      "id": "q_62e5f85dab",
       "title": "天人達のエルピス",
       "monsters": [
         "ゾシア"
@@ -81,7 +95,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_006",
+      "id": "q_e6222ad20a",
       "title": "光彩陸離の輝きよ！",
       "monsters": [
         "歴戦レダウ",
@@ -97,7 +111,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_007",
+      "id": "q_060ff3f1a9",
       "title": "七色のかばね",
       "monsters": [
         "？？？？？15匹の討伐"
@@ -111,7 +125,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_008",
+      "id": "q_5dcc849990",
       "title": "ハンター達の永い夢",
       "monsters": [
         "歴戦タマミツネ",
@@ -127,7 +141,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_009",
+      "id": "q_ce533dcdb2",
       "title": "東方の鐘冴ゆ道は凍えけり",
       "monsters": [
         "歴戦王ジンダハド"
@@ -142,7 +156,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_010",
+      "id": "q_bd8082d801",
       "title": "黒き揺り篭の吾子",
       "monsters": [
         "歴戦王ヌエグドラ"
@@ -157,7 +171,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_011",
+      "id": "q_d7c9b09023",
       "title": "トゥオネラの番人より告ぐ",
       "monsters": [
         "歴戦王ウズトゥナ"
@@ -172,7 +186,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_012",
+      "id": "q_6097145fe6",
       "title": "楼蘭の睥睨者",
       "monsters": [
         "歴戦王レダウ"
@@ -187,7 +201,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_013",
+      "id": "q_7d3c8ea1d2",
       "title": "孤独から出でし君という自由",
       "monsters": [
         "歴戦王アルシュベルド"
@@ -203,7 +217,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_014",
+      "id": "q_ce65571b3c",
       "title": "天滄無窮",
       "monsters": [
         "歴戦リオレウス",
@@ -219,7 +233,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_015",
+      "id": "q_5201580120",
       "title": "咎は戦禍に睡臥する",
       "monsters": [
         "ゴグマジオス"
@@ -233,7 +247,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_016",
+      "id": "q_5b3232ed61",
       "title": "ジュデッカの心臓",
       "monsters": [
         "歴戦王ジンダハド"
@@ -247,7 +261,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_017",
+      "id": "q_8c9c0919bd",
       "title": "闇き漁火よ、呪われてあれ",
       "monsters": [
         "歴戦王ヌエグドラ"
@@ -261,7 +275,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_018",
+      "id": "q_3fa0fc610f",
       "title": "零式オメガプラネテス検証戦",
       "monsters": [
         "オメガプラネテス"
@@ -279,7 +293,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_019",
+      "id": "q_2303c6da0d",
       "title": "白い暴れん坊、手に負えない",
       "monsters": [
         "歴戦護竜アンジャナフ亜種"
@@ -293,7 +307,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_020",
+      "id": "q_fb2527213c",
       "title": "暗闇からケミーコス",
       "monsters": [
         "ププロポル"
@@ -307,7 +321,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_021",
+      "id": "q_9507af4813",
       "title": "螺旋とうねりの試運転",
       "monsters": [
         "バーラハーラ"
@@ -322,7 +336,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_022",
+      "id": "q_220e2e88b6",
       "title": "その舌はとても強情",
       "monsters": [
         "歴戦チャタカブラ"
@@ -337,7 +351,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_023",
+      "id": "q_7a2e14aa00",
       "title": "漣の古き都に眠れば愛し",
       "monsters": [
         "歴戦王ウズトゥナ"
@@ -351,7 +365,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_024",
+      "id": "q_2f9c9e0120",
       "title": "無言の閃耀",
       "monsters": [
         "歴戦王レダウ"
@@ -365,7 +379,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_025",
+      "id": "q_b27ae4223f",
       "title": "痺れる森の野獣",
       "monsters": [
         "歴戦ドシャグマ",
@@ -381,7 +395,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_026",
+      "id": "q_70b626c941",
       "title": "快気怪鳥の快進撃",
       "monsters": [
         "歴戦イャンクック"
@@ -395,7 +409,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_027",
+      "id": "q_95742aa367",
       "title": "長いものには巻かれてござれ",
       "monsters": [
         "歴戦タマミツネ",
@@ -410,7 +424,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_028",
+      "id": "q_0351ed7290",
       "title": "王と私は眩闇を知る",
       "monsters": [
         "歴戦リオレウス",
@@ -425,7 +439,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_029",
+      "id": "q_918551096a",
       "title": "霜烈のホワイトアウト",
       "monsters": [
         "歴戦ドドブランゴ"
@@ -440,7 +454,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_030",
+      "id": "q_e126cc674b",
       "title": "狼藉なるものの武弁",
       "monsters": [
         "歴戦ドシャグマ"
@@ -454,7 +468,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_031",
+      "id": "q_7c654322b7",
       "title": "竜都の中心で肉を焦がした者",
       "monsters": [
         "歴戦ケマトリス",
@@ -469,7 +483,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_032",
+      "id": "q_b56daa0fa3",
       "title": "調伏の獣",
       "monsters": [
         "歴戦アジャラカン"
@@ -483,7 +497,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_033",
+      "id": "q_6f49a9af9e",
       "title": "桃毛達も歌う恋歌",
       "monsters": [
         "ババコンガ"
@@ -497,7 +511,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_034",
+      "id": "q_a2668981cb",
       "title": "暴れん坊、ここに極まれり",
       "monsters": [
         "歴戦護竜アンジャナフ亜種"
@@ -511,7 +525,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_035",
+      "id": "q_f0139bf4d6",
       "title": "ぬるい光は私に不要",
       "monsters": [
         "歴戦ゲリョス"
@@ -526,7 +540,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_036",
+      "id": "q_7b147f74cc",
       "title": "ヒラバミ達の収穫祭",
       "monsters": [
         "ヒラバミ"
@@ -541,7 +555,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_037",
+      "id": "q_8ed7710e4a",
       "title": "狂威の食うか食われるか",
       "monsters": [
         "狂竜化ゲリョス",
@@ -556,7 +570,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_038",
+      "id": "q_1a0a66f819",
       "title": "主亡き爪",
       "monsters": [
         "歴戦護竜オドガロン亜種"
@@ -570,7 +584,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_039",
+      "id": "q_cee0d0a3f5",
       "title": "白髭妍哉",
       "monsters": [
         "歴戦ドドブランゴ"
@@ -584,7 +598,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_040",
+      "id": "q_c365f6722e",
       "title": "解き放たれた兇爪",
       "monsters": [
         "歴戦護竜オドガロン亜種"
@@ -598,7 +612,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_041",
+      "id": "q_48868d12f9",
       "title": "蛮行容貌",
       "monsters": [
         "ドシャグマ"
@@ -612,7 +626,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_042",
+      "id": "q_2946c06648",
       "title": "碧落に咆を奏でたり",
       "monsters": [
         "リオレウス"
@@ -626,7 +640,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_043",
+      "id": "q_9ad2c03ed6",
       "title": "大好物は鉱石です！！",
       "monsters": [
         "歴戦グラビモス"
@@ -641,7 +655,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_044",
+      "id": "q_2906724f7b",
       "title": "千の光はすべて刃",
       "monsters": [
         "セルレギオス"
@@ -655,7 +669,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_045",
+      "id": "q_aec80bb5c0",
       "title": "白き王子の豪勇魂",
       "monsters": [
         "歴戦ドドブランゴ"
@@ -669,7 +683,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_046",
+      "id": "q_40926302a9",
       "title": "収棘のエニグマ",
       "monsters": [
         "歴戦シーウー"
@@ -683,7 +697,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_047",
+      "id": "q_85bb061656",
       "title": "毒をもって毒が二倍",
       "monsters": [
         "ププロポル",
@@ -699,7 +713,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_048",
+      "id": "q_10be725c13",
       "title": "桃色気分が私を焦がす",
       "monsters": [
         "リオレイア",
@@ -717,7 +731,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_049",
+      "id": "q_9a32bea863",
       "title": "燃えろ、ネイキッドボディ",
       "monsters": [
         "ヌエグドラ"
@@ -732,7 +746,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_050",
+      "id": "q_363f841a55",
       "title": "森の覇者、それはイャンクック",
       "monsters": [
         "歴戦イャンクック"
@@ -746,7 +760,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_051",
+      "id": "q_465c022e45",
       "title": "三人寄ればケマトリス！",
       "monsters": [
         "ケマトリス"
@@ -760,7 +774,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_052",
+      "id": "q_f2319f9a10",
       "title": "封印を解いた暴れん坊",
       "monsters": [
         "護竜アンジャナフ亜種"
@@ -774,7 +788,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_053",
+      "id": "q_02bc707d51",
       "title": "その閃光は私に効かない",
       "monsters": [
         "歴戦シーウー"
@@ -789,7 +803,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_054",
+      "id": "q_3d825e3560",
       "title": "カラボスの娘達",
       "monsters": [
         "ラバラバリナ"
@@ -804,7 +818,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_055",
+      "id": "q_ee8ae7f37e",
       "title": "炎尾竜はいつ歌う？",
       "monsters": [
         "ケマトリス"
@@ -818,7 +832,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_056",
+      "id": "q_980e815e4a",
       "title": "異国の空と王",
       "monsters": [
         "歴戦護竜リオレウス"
@@ -832,7 +846,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_057",
+      "id": "q_151855eff3",
       "title": "哀愁と暴虐の白き獣",
       "monsters": [
         "護竜ドシャグマ"
@@ -846,7 +860,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_058",
+      "id": "q_b58d73bfea",
       "title": "砂がくれにし夜半の火影",
       "monsters": [
         "リオレイア"
@@ -860,7 +874,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_059",
+      "id": "q_d434b204cf",
       "title": "砂傷だらけの荒者魂",
       "monsters": [
         "ドシャグマ"
@@ -874,7 +888,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_060",
+      "id": "q_94e736ebc8",
       "title": "バヨネットが踊る雨",
       "monsters": [
         "歴戦ラバラバリナ"
@@ -888,7 +902,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_061",
+      "id": "q_b440cbe9d7",
       "title": "豊穣清浄、怪鳥上々",
       "monsters": [
         "イャンクック"
@@ -902,21 +916,7 @@
       "category": "permanent"
     },
     {
-      "id": "quest_062",
-      "title": "竜谷の跡地のドシャグマ",
-      "monsters": [
-        "ドシャグマ"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "5月13日(水)9:00〜5月27日(水)8:59",
-      "condition": "上位★5（HR16〜）",
-      "category": "upcoming"
-    },
-    {
-      "id": "quest_063",
+      "id": "q_b3857204c8",
       "title": "生き誇れ、野生の仔",
       "monsters": [
         "歴戦王アルシュベルド"
@@ -930,7 +930,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_064",
+      "id": "q_23dae19a92",
       "title": "夢に生きた者の階段",
       "monsters": [
         "アルシュベルド",
@@ -946,7 +946,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_065",
+      "id": "q_a38132d522",
       "title": "八種の黒詛",
       "monsters": [
         "ヌエグドラ"
@@ -960,7 +960,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_066",
+      "id": "q_97f36e8bd6",
       "title": "凍てつく威信",
       "monsters": [
         "ジンダハド"
@@ -974,7 +974,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_067",
+      "id": "q_de34d54aa9",
       "title": "凍え知れ、安寧の睡郷",
       "monsters": [
         "歴戦王ジンダハド"
@@ -989,7 +989,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_068",
+      "id": "q_4f8804ab9b",
       "title": "ひらけ昏の門",
       "monsters": [
         "ゴアマガラ"
@@ -1003,7 +1003,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_069",
+      "id": "q_d7b6cddca6",
       "title": "金の果実を欲す鳥",
       "monsters": [
         "イャンクック",
@@ -1018,7 +1018,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_070",
+      "id": "q_c0e9c845a6",
       "title": "焼け落ちろ、黒岸の奈利",
       "monsters": [
         "歴戦王ヌエグドラ"
@@ -1032,7 +1032,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_071",
+      "id": "q_818f04d6da",
       "title": "刃翼の那由他",
       "monsters": [
         "セルレギオス"
@@ -1046,7 +1046,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_072",
+      "id": "q_cfb09bb11e",
       "title": "固い鎧と君の意志",
       "monsters": [
         "グラビモス"
@@ -1060,7 +1060,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_073",
+      "id": "q_390739b601",
       "title": "真の王たる者とは",
       "monsters": [
         "リオレウス"
@@ -1074,7 +1074,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_074",
+      "id": "q_139472db65",
       "title": "頂への導火線",
       "monsters": [
         "ケマトリス"
@@ -1088,7 +1088,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_075",
+      "id": "q_e9040589d9",
       "title": "啼き濡れろ、怒りの叢雨",
       "monsters": [
         "歴戦王ウズトゥナ"
@@ -1102,7 +1102,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_076",
+      "id": "q_d51ded7fc7",
       "title": "あわき朱華のうつろひ心",
       "monsters": [
         "タマミツネ"
@@ -1116,7 +1116,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_077",
+      "id": "q_363068b635",
       "title": "隠れ場所は油断の隙間",
       "monsters": [
         "シーウー"
@@ -1130,7 +1130,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_078",
+      "id": "q_afd37d4eea",
       "title": "狂おしくもププロポル",
       "monsters": [
         "ププロポル"
@@ -1144,7 +1144,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_079",
+      "id": "q_5bd3d14e29",
       "title": "影蜘蛛、頂を歩く",
       "monsters": [
         "ネルスキュラ"
@@ -1158,7 +1158,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_080",
+      "id": "q_05b15a6ef4",
       "title": "吹き荒べ、閃煌の嵐",
       "monsters": [
         "歴戦王レダウ"
@@ -1172,7 +1172,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_081",
+      "id": "q_3f8db8c586",
       "title": "ババコンガ、垂涎のアレを好む",
       "monsters": [
         "ババコンガ"
@@ -1186,7 +1186,7 @@
       "category": "ended"
     },
     {
-      "id": "quest_082",
+      "id": "q_d5d685f95f",
       "title": "晩飯時のイグニッション",
       "monsters": [
         "ケマトリス"
