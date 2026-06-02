@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T12:55:56.612Z",
+  "updatedAt": "2026-06-02T02:35:40.954Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -29,20 +29,6 @@
       ],
       "period": "4月22日(水)9:00〜6月10日(水)8:59",
       "condition": "上位★6（HR31〜）",
-      "category": "active_limited"
-    },
-    {
-      "id": "q_89d58a9764",
-      "title": "竜谷の跡地のドシャグマ",
-      "monsters": [
-        "ドシャグマ"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "5月13日(水)9:00〜5月27日(水)8:59",
-      "condition": "上位★5（HR16〜）",
       "category": "active_limited"
     },
     {
@@ -916,6 +902,34 @@
       "category": "permanent"
     },
     {
+      "id": "q_afd37d4eea",
+      "title": "狂おしくもププロポル",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "マッドシュリンプ"
+      ],
+      "period": "6月10日(水)9:00〜6月17日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "q_05b15a6ef4",
+      "title": "吹き荒べ、閃煌の嵐",
+      "monsters": [
+        "歴戦王レダウ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "6月10日(水)9:00〜6月24日(水)8:59",
+      "condition": "上位★8（HR50〜）",
+      "category": "upcoming"
+    },
+    {
       "id": "q_b3857204c8",
       "title": "生き誇れ、野生の仔",
       "monsters": [
@@ -1130,20 +1144,6 @@
       "category": "ended"
     },
     {
-      "id": "q_afd37d4eea",
-      "title": "狂おしくもププロポル",
-      "monsters": [
-        "ププロポル"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "マッドシュリンプ"
-      ],
-      "period": "3月18日(水)9:00〜3月25日(水)8:59",
-      "condition": "上位★4（HR9〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_5bd3d14e29",
       "title": "影蜘蛛、頂を歩く",
       "monsters": [
@@ -1158,17 +1158,17 @@
       "category": "ended"
     },
     {
-      "id": "q_05b15a6ef4",
-      "title": "吹き荒べ、閃煌の嵐",
+      "id": "q_89d58a9764",
+      "title": "竜谷の跡地のドシャグマ",
       "monsters": [
-        "歴戦王レダウ"
+        "ドシャグマ"
       ],
-      "difficulty": 8,
+      "difficulty": 5,
       "rewards": [
         "限定チャーム"
       ],
-      "period": "5月7日(水)9:00〜5月21日(水)8:59",
-      "condition": "上位★8（HR50〜）",
+      "period": "5月13日(水)9:00〜5月27日(水)8:59",
+      "condition": "上位★5（HR16〜）",
       "category": "ended"
     },
     {
