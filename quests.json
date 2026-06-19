@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-12T17:10:18.737Z",
+  "updatedAt": "2026-06-19T17:09:56.967Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_afd37d4eea",
-      "title": "狂おしくもププロポル",
+      "id": "q_5bd3d14e29",
+      "title": "影蜘蛛、頂を歩く",
       "monsters": [
-        "ププロポル"
+        "ネルスキュラ"
       ],
       "difficulty": 4,
       "rewards": [
-        "マッドシュリンプ"
+        "フワフワ卵"
       ],
-      "period": "6月10日(水)9:00〜6月24日(水)8:59",
+      "period": "6月17日(水)9:00〜6月24日(水)8:59",
       "condition": "上位★4（HR9〜）",
       "category": "active_limited"
     },
@@ -489,7 +489,7 @@
       ],
       "difficulty": 5,
       "rewards": [
-        "オトモ防具「」"
+        "オトモ防具「ビセイウタネコαシリーズ」"
       ],
       "period": "2月18日(水)9:00〜",
       "condition": "上位★5（HR21〜）",
@@ -901,20 +901,6 @@
       "category": "permanent"
     },
     {
-      "id": "q_5bd3d14e29",
-      "title": "影蜘蛛、頂を歩く",
-      "monsters": [
-        "ネルスキュラ"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "フワフワ卵"
-      ],
-      "period": "6月17日(水)9:00〜6月24日(水)8:59",
-      "condition": "上位★4（HR9〜）",
-      "category": "upcoming"
-    },
-    {
       "id": "q_363068b635",
       "title": "隠れ場所は油断の隙間",
       "monsters": [
@@ -926,6 +912,20 @@
       ],
       "period": "6月24日(水)9:00〜7月1日(水)8:59",
       "condition": "上位★5（HR21〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "q_d5d685f95f",
+      "title": "晩飯時のイグニッション",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "クナファチーズ"
+      ],
+      "period": "7月1日(水)9:00〜7月8日(水)8:59",
+      "condition": "上位★4（HR9〜）",
       "category": "upcoming"
     },
     {
@@ -1144,6 +1144,20 @@
       "category": "ended"
     },
     {
+      "id": "q_afd37d4eea",
+      "title": "狂おしくもププロポル",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "マッドシュリンプ"
+      ],
+      "period": "6月10日(水)9:00〜6月24日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
       "id": "q_c8539706b0",
       "title": "極熱重鎧グラビモス",
       "monsters": [
@@ -1183,20 +1197,6 @@
       ],
       "period": "4月15日(水)9:00〜4月22日(水)8:59",
       "condition": "上位★5（HR9〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_d5d685f95f",
-      "title": "晩飯時のイグニッション",
-      "monsters": [
-        "ケマトリス"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "クナファチーズ"
-      ],
-      "period": "4月8日(水)9:00〜4月15日(水)8:59",
-      "condition": "上位★4（HR9〜）",
       "category": "ended"
     }
   ]
