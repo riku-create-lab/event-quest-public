@@ -1,33 +1,19 @@
 {
-  "updatedAt": "2026-06-19T17:09:56.967Z",
+  "updatedAt": "2026-06-26T17:10:08.451Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_5bd3d14e29",
-      "title": "影蜘蛛、頂を歩く",
+      "id": "q_363068b635",
+      "title": "隠れ場所は油断の隙間",
       "monsters": [
-        "ネルスキュラ"
+        "シーウー"
       ],
-      "difficulty": 4,
+      "difficulty": 5,
       "rewards": [
-        "フワフワ卵"
+        "シルドニンニク"
       ],
-      "period": "6月17日(水)9:00〜6月24日(水)8:59",
-      "condition": "上位★4（HR9〜）",
-      "category": "active_limited"
-    },
-    {
-      "id": "q_05b15a6ef4",
-      "title": "吹き荒べ、閃煌の嵐",
-      "monsters": [
-        "歴戦王レダウ"
-      ],
-      "difficulty": 8,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "6月10日(水)9:00〜6月24日(水)8:59",
-      "condition": "上位★8（HR50〜）",
+      "period": "6月24日(水)9:00〜7月1日(水)8:59",
+      "condition": "上位★5（HR21〜）",
       "category": "active_limited"
     },
     {
@@ -901,20 +887,6 @@
       "category": "permanent"
     },
     {
-      "id": "q_363068b635",
-      "title": "隠れ場所は油断の隙間",
-      "monsters": [
-        "シーウー"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "シルドニンニク"
-      ],
-      "period": "6月24日(水)9:00〜7月1日(水)8:59",
-      "condition": "上位★5（HR21〜）",
-      "category": "upcoming"
-    },
-    {
       "id": "q_d5d685f95f",
       "title": "晩飯時のイグニッション",
       "monsters": [
@@ -929,20 +901,6 @@
       "category": "upcoming"
     },
     {
-      "id": "q_b3857204c8",
-      "title": "生き誇れ、野生の仔",
-      "monsters": [
-        "歴戦王アルシュベルド"
-      ],
-      "difficulty": 10,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "3月19日(木)9:00〜4月2日(木)8:59",
-      "condition": "上位★10（HR100〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_b0521cca35",
       "title": "ププロポルは泣いてない",
       "monsters": [
@@ -953,7 +911,35 @@
         "防具「ププロフェイクα」",
         "限定チャーム"
       ],
-      "period": "4月22日(水)9:00〜6月10日(水)8:59",
+      "period": "7月8日(水)9:00〜8月19日(水)8:59",
+      "condition": "上位★10（HR100〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "q_c8539706b0",
+      "title": "極熱重鎧グラビモス",
+      "monsters": [
+        "歴戦グラビモス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "各地の追加食材が集めやすい"
+      ],
+      "period": "7月8日(水)9:00〜8月19日(水)8:59",
+      "condition": "上位★6（HR31〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "q_b3857204c8",
+      "title": "生き誇れ、野生の仔",
+      "monsters": [
+        "歴戦王アルシュベルド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "3月19日(木)9:00〜4月2日(木)8:59",
       "condition": "上位★10（HR100〜）",
       "category": "ended"
     },
@@ -1158,17 +1144,31 @@
       "category": "ended"
     },
     {
-      "id": "q_c8539706b0",
-      "title": "極熱重鎧グラビモス",
+      "id": "q_5bd3d14e29",
+      "title": "影蜘蛛、頂を歩く",
       "monsters": [
-        "歴戦グラビモス"
+        "ネルスキュラ"
       ],
-      "difficulty": 6,
+      "difficulty": 4,
       "rewards": [
-        "各地の追加食材が集めやすい"
+        "フワフワ卵"
       ],
-      "period": "4月22日(水)9:00〜6月10日(水)8:59",
-      "condition": "上位★6（HR31〜）",
+      "period": "6月17日(水)9:00〜6月24日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_05b15a6ef4",
+      "title": "吹き荒べ、閃煌の嵐",
+      "monsters": [
+        "歴戦王レダウ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "6月10日(水)9:00〜6月24日(水)8:59",
+      "condition": "上位★8（HR50〜）",
       "category": "ended"
     },
     {
