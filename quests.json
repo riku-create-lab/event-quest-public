@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-06-26T17:10:08.451Z",
+  "updatedAt": "2026-07-06T09:13:02.333Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_363068b635",
-      "title": "隠れ場所は油断の隙間",
+      "id": "q_d5d685f95f",
+      "title": "晩飯時のイグニッション",
       "monsters": [
-        "シーウー"
+        "ケマトリス"
       ],
-      "difficulty": 5,
+      "difficulty": 4,
       "rewards": [
-        "シルドニンニク"
+        "クナファチーズ"
       ],
-      "period": "6月24日(水)9:00〜7月1日(水)8:59",
-      "condition": "上位★5（HR21〜）",
+      "period": "7月1日(水)9:00〜7月8日(水)8:59",
+      "condition": "上位★4（HR9〜）",
       "category": "active_limited"
     },
     {
@@ -887,20 +887,6 @@
       "category": "permanent"
     },
     {
-      "id": "q_d5d685f95f",
-      "title": "晩飯時のイグニッション",
-      "monsters": [
-        "ケマトリス"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "クナファチーズ"
-      ],
-      "period": "7月1日(水)9:00〜7月8日(水)8:59",
-      "condition": "上位★4（HR9〜）",
-      "category": "upcoming"
-    },
-    {
       "id": "q_b0521cca35",
       "title": "ププロポルは泣いてない",
       "monsters": [
@@ -927,6 +913,20 @@
       ],
       "period": "7月8日(水)9:00〜8月19日(水)8:59",
       "condition": "上位★6（HR31〜）",
+      "category": "upcoming"
+    },
+    {
+      "id": "q_e9040589d9",
+      "title": "啼き濡れろ、怒りの叢雨",
+      "monsters": [
+        "歴戦王ウズトゥナ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "7月15日(水)9:00〜7月29日(水)8:59",
+      "condition": "上位★8（HR50〜）",
       "category": "upcoming"
     },
     {
@@ -1102,20 +1102,6 @@
       "category": "ended"
     },
     {
-      "id": "q_e9040589d9",
-      "title": "啼き濡れろ、怒りの叢雨",
-      "monsters": [
-        "歴戦王ウズトゥナ"
-      ],
-      "difficulty": 8,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "7月29日(火)9:00〜8月12日(火)8:59",
-      "condition": "上位★8（HR50〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_d51ded7fc7",
       "title": "あわき朱華のうつろひ心",
       "monsters": [
@@ -1126,6 +1112,20 @@
         "限定チャーム"
       ],
       "period": "7月9日(水)9:00〜7月23日(水)8:59",
+      "condition": "上位★5（HR21〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_363068b635",
+      "title": "隠れ場所は油断の隙間",
+      "monsters": [
+        "シーウー"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "シルドニンニク"
+      ],
+      "period": "6月24日(水)9:00〜7月1日(水)8:59",
       "condition": "上位★5（HR21〜）",
       "category": "ended"
     },
