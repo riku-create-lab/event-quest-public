@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T17:09:29.068Z",
+  "updatedAt": "2026-07-21T04:18:56.285Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -15,6 +15,20 @@
       ],
       "period": "7月8日(水)9:00〜8月19日(水)8:59",
       "condition": "上位★10（HR100〜）",
+      "category": "active_limited"
+    },
+    {
+      "id": "q_e9040589d9",
+      "title": "啼き濡れろ、怒りの叢雨",
+      "monsters": [
+        "歴戦王ウズトゥナ"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "7月15日(水)9:00〜7月29日(水)8:59",
+      "condition": "上位★8（HR50〜）",
       "category": "active_limited"
     },
     {
@@ -900,20 +914,6 @@
       "period": "2月18日(水)9:00〜",
       "condition": "上位★4（HR9〜）",
       "category": "permanent"
-    },
-    {
-      "id": "q_e9040589d9",
-      "title": "啼き濡れろ、怒りの叢雨",
-      "monsters": [
-        "歴戦王ウズトゥナ"
-      ],
-      "difficulty": 8,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "7月15日(水)9:00〜7月29日(水)8:59",
-      "condition": "上位★8（HR50〜）",
-      "category": "upcoming"
     },
     {
       "id": "q_b3857204c8",
