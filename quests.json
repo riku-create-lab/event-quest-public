@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T04:18:56.285Z",
+  "updatedAt": "2026-07-31T17:00:02.104Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -395,6 +395,50 @@
       "category": "permanent"
     },
     {
+      "id": "q_23dae19a92",
+      "title": "夢に生きた者の階段",
+      "monsters": [
+        "アルシュベルド",
+        "ドシャグマ",
+        "レダウ"
+      ],
+      "difficulty": 7,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★7（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_a38132d522",
+      "title": "八種の黒詛",
+      "monsters": [
+        "ヌエグドラ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★6（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_97f36e8bd6",
+      "title": "凍てつく威信",
+      "monsters": [
+        "ジンダハド"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★6（HR41〜）",
+      "category": "permanent"
+    },
+    {
       "id": "q_70b626c941",
       "title": "快気怪鳥の快進撃",
       "monsters": [
@@ -421,6 +465,20 @@
       ],
       "period": "2月18日(水)9:00〜",
       "condition": "上位★8（HR41〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_4f8804ab9b",
+      "title": "ひらけ昏の門",
+      "monsters": [
+        "ゴアマガラ"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★6（HR41〜）",
       "category": "permanent"
     },
     {
@@ -465,6 +523,21 @@
       ],
       "period": "2月11日(水)9:00〜",
       "condition": "上位★9（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_d7b6cddca6",
+      "title": "金の果実を欲す鳥",
+      "monsters": [
+        "イャンクック",
+        "ラバラバリナ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★4（HR16〜）",
       "category": "permanent"
     },
     {
@@ -555,6 +628,20 @@
       "category": "permanent"
     },
     {
+      "id": "q_cfb09bb11e",
+      "title": "固い鎧と君の意志",
+      "monsters": [
+        "グラビモス"
+      ],
+      "difficulty": 8,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★8（HR16〜）",
+      "category": "permanent"
+    },
+    {
       "id": "q_8ed7710e4a",
       "title": "狂威の食うか食われるか",
       "monsters": [
@@ -598,6 +685,20 @@
       "category": "permanent"
     },
     {
+      "id": "q_390739b601",
+      "title": "真の王たる者とは",
+      "monsters": [
+        "リオレウス"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★5（HR16〜）",
+      "category": "permanent"
+    },
+    {
       "id": "q_c365f6722e",
       "title": "解き放たれた兇爪",
       "monsters": [
@@ -609,6 +710,20 @@
       ],
       "period": "2月18日(水)9:00〜",
       "condition": "上位★6（HR31〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_139472db65",
+      "title": "頂への導火線",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "4月1日(水)9:00〜",
+      "condition": "上位★4（HR16〜）",
       "category": "permanent"
     },
     {
@@ -930,50 +1045,6 @@
       "category": "ended"
     },
     {
-      "id": "q_23dae19a92",
-      "title": "夢に生きた者の階段",
-      "monsters": [
-        "アルシュベルド",
-        "ドシャグマ",
-        "レダウ"
-      ],
-      "difficulty": 7,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "1月21日(水)9:00〜2月25日(水)8:59",
-      "condition": "上位★7（HR41〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_a38132d522",
-      "title": "八種の黒詛",
-      "monsters": [
-        "ヌエグドラ"
-      ],
-      "difficulty": 6,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "1月21日(水)9:00〜2月25日(水)8:59",
-      "condition": "上位★6（HR41〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_97f36e8bd6",
-      "title": "凍てつく威信",
-      "monsters": [
-        "ジンダハド"
-      ],
-      "difficulty": 6,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "1月21日(水)9:00〜2月25日(水)8:59",
-      "condition": "上位★6（HR41〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_de34d54aa9",
       "title": "凍え知れ、安寧の睡郷",
       "monsters": [
@@ -986,35 +1057,6 @@
       ],
       "period": "1月7日(水)9:00〜1月21日(水)8:59",
       "condition": "上位★9（HR100〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_4f8804ab9b",
-      "title": "ひらけ昏の門",
-      "monsters": [
-        "ゴアマガラ"
-      ],
-      "difficulty": 6,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "12月24日(水)9:00〜2月3日(水)23:59",
-      "condition": "上位★6（HR41〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_d7b6cddca6",
-      "title": "金の果実を欲す鳥",
-      "monsters": [
-        "イャンクック",
-        "ラバラバリナ"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "12月17日(水)9:00〜2月4日(水)8:59",
-      "condition": "上位★4（HR16〜）",
       "category": "ended"
     },
     {
@@ -1043,48 +1085,6 @@
       ],
       "period": "10月8日(水)9:00〜10月22日(水)8:59",
       "condition": "上位★6（HR31〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_cfb09bb11e",
-      "title": "固い鎧と君の意志",
-      "monsters": [
-        "グラビモス"
-      ],
-      "difficulty": 8,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "10月1日(水)9:00〜11月05日(水)8:59",
-      "condition": "上位★8（HR16〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_390739b601",
-      "title": "真の王たる者とは",
-      "monsters": [
-        "リオレウス"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "9月17日(水)9:00〜10月22日(水)8:59",
-      "condition": "上位★5（HR16〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_139472db65",
-      "title": "頂への導火線",
-      "monsters": [
-        "ケマトリス"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "特になし"
-      ],
-      "period": "9月3日(水)9:00〜11月5日(水)8:59",
-      "condition": "上位★4（HR16〜）",
       "category": "ended"
     },
     {
