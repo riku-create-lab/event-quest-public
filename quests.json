@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T17:00:02.104Z",
+  "updatedAt": "2026-08-07T17:00:02.600Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -44,6 +44,36 @@
       "period": "7月8日(水)9:00〜8月19日(水)8:59",
       "condition": "上位★6（HR31〜）",
       "category": "active_limited"
+    },
+    {
+      "id": "q_d9f9ee74a5",
+      "title": "解鎖のアルシュベルド",
+      "monsters": [
+        "歴戦王アルシュベルド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "8月4日(火)9:00〜",
+      "condition": "上位★10（HR100〜）",
+      "category": "permanent"
+    },
+    {
+      "id": "q_cf4086b20e",
+      "title": "その鳥達が見る夢は",
+      "monsters": [
+        "シーウー",
+        "ラギアクルス",
+        "歴戦王ヌエグドラ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "特になし"
+      ],
+      "period": "8月4日(火)9:00〜",
+      "condition": "上位★9（HR100〜）",
+      "category": "permanent"
     },
     {
       "id": "q_e32b69b8a0",
