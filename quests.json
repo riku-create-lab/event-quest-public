@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:00:02.513Z",
+  "updatedAt": "2026-08-28T17:00:02.704Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -17,17 +17,17 @@
       "category": "active_limited"
     },
     {
-      "id": "q_3f8db8c586",
-      "title": "ババコンガ、垂涎のアレを好む",
+      "id": "q_afd37d4eea",
+      "title": "狂おしくもププロポル",
       "monsters": [
-        "ババコンガ"
+        "ププロポル"
       ],
-      "difficulty": 5,
+      "difficulty": 4,
       "rewards": [
-        "ヨダレダケ"
+        "マッドシュリンプ"
       ],
-      "period": "8月19日(水)9:00〜8月26日(水)8:59",
-      "condition": "上位★5（HR9〜）",
+      "period": "8月26日(水)9:00〜9月2日(水)8:59",
+      "condition": "上位★4（HR9〜）",
       "category": "active_limited"
     },
     {
@@ -1061,17 +1061,17 @@
       "category": "permanent"
     },
     {
-      "id": "q_afd37d4eea",
-      "title": "狂おしくもププロポル",
+      "id": "q_363068b635",
+      "title": "隠れ場所は油断の隙間",
       "monsters": [
-        "ププロポル"
+        "シーウー"
       ],
-      "difficulty": 4,
+      "difficulty": 5,
       "rewards": [
-        "マッドシュリンプ"
+        "シルドニンニク"
       ],
-      "period": "8月26日(水)9:00〜9月2日(水)8:59",
-      "condition": "上位★4（HR9〜）",
+      "period": "9月9日(水)9:00〜9月16日(水)8:59",
+      "condition": "上位★5（HR21〜）",
       "category": "upcoming"
     },
     {
@@ -1160,20 +1160,6 @@
       "category": "ended"
     },
     {
-      "id": "q_363068b635",
-      "title": "隠れ場所は油断の隙間",
-      "monsters": [
-        "シーウー"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "シルドニンニク"
-      ],
-      "period": "6月24日(水)9:00〜7月1日(水)8:59",
-      "condition": "上位★5（HR21〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_05b15a6ef4",
       "title": "吹き荒べ、閃煌の嵐",
       "monsters": [
@@ -1213,6 +1199,20 @@
       ],
       "period": "5月13日(水)9:00〜5月27日(水)8:59",
       "condition": "上位★5（HR16〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_3f8db8c586",
+      "title": "ババコンガ、垂涎のアレを好む",
+      "monsters": [
+        "ババコンガ"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "ヨダレダケ"
+      ],
+      "period": "8月19日(水)9:00〜8月26日(水)8:59",
+      "condition": "上位★5（HR9〜）",
       "category": "ended"
     },
     {
