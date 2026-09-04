@@ -1,32 +1,18 @@
 {
-  "updatedAt": "2026-08-28T17:00:02.704Z",
+  "updatedAt": "2026-09-04T17:00:02.373Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_c0e9c845a6",
-      "title": "焼け落ちろ、黒岸の奈利",
+      "id": "q_5bd3d14e29",
+      "title": "影蜘蛛、頂を歩く",
       "monsters": [
-        "歴戦王ヌエグドラ"
-      ],
-      "difficulty": 9,
-      "rewards": [
-        "限定チャーム"
-      ],
-      "period": "8月19日(水)9:00〜9月2日(水)8:59",
-      "condition": "上位★9（HR100〜）",
-      "category": "active_limited"
-    },
-    {
-      "id": "q_afd37d4eea",
-      "title": "狂おしくもププロポル",
-      "monsters": [
-        "ププロポル"
+        "ネルスキュラ"
       ],
       "difficulty": 4,
       "rewards": [
-        "マッドシュリンプ"
+        "フワフワ卵"
       ],
-      "period": "8月26日(水)9:00〜9月2日(水)8:59",
+      "period": "9月2日(水)9:00〜9月9日(水)8:59",
       "condition": "上位★4（HR9〜）",
       "category": "active_limited"
     },
@@ -1075,17 +1061,17 @@
       "category": "upcoming"
     },
     {
-      "id": "q_5bd3d14e29",
-      "title": "影蜘蛛、頂を歩く",
+      "id": "q_c8539706b0",
+      "title": "極熱重鎧グラビモス",
       "monsters": [
-        "ネルスキュラ"
+        "歴戦グラビモス"
       ],
-      "difficulty": 4,
+      "difficulty": 6,
       "rewards": [
-        "フワフワ卵"
+        "各地の追加食材が集めやすい"
       ],
-      "period": "9月2日(水)9:00〜9月9日(水)8:59",
-      "condition": "上位★4（HR9〜）",
+      "period": "9月16日(水)9:00〜11月4日(水)8:59",
+      "condition": "上位★6（HR31〜）",
       "category": "upcoming"
     },
     {
@@ -1114,6 +1100,20 @@
         "限定チャーム"
       ],
       "period": "1月7日(水)9:00〜1月21日(水)8:59",
+      "condition": "上位★9（HR100〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_c0e9c845a6",
+      "title": "焼け落ちろ、黒岸の奈利",
+      "monsters": [
+        "歴戦王ヌエグドラ"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "8月19日(水)9:00〜9月2日(水)8:59",
       "condition": "上位★9（HR100〜）",
       "category": "ended"
     },
@@ -1160,6 +1160,20 @@
       "category": "ended"
     },
     {
+      "id": "q_afd37d4eea",
+      "title": "狂おしくもププロポル",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "マッドシュリンプ"
+      ],
+      "period": "8月26日(水)9:00〜9月2日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
       "id": "q_05b15a6ef4",
       "title": "吹き荒べ、閃煌の嵐",
       "monsters": [
@@ -1171,20 +1185,6 @@
       ],
       "period": "6月10日(水)9:00〜6月24日(水)8:59",
       "condition": "上位★8（HR50〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_c8539706b0",
-      "title": "極熱重鎧グラビモス",
-      "monsters": [
-        "歴戦グラビモス"
-      ],
-      "difficulty": 6,
-      "rewards": [
-        "各地の追加食材が集めやすい"
-      ],
-      "period": "7月8日(水)9:00〜8月19日(水)8:59",
-      "condition": "上位★6（HR31〜）",
       "category": "ended"
     },
     {
