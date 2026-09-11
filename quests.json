@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-04T17:00:02.373Z",
+  "updatedAt": "2026-09-11T17:00:04.172Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_5bd3d14e29",
-      "title": "影蜘蛛、頂を歩く",
+      "id": "q_363068b635",
+      "title": "隠れ場所は油断の隙間",
       "monsters": [
-        "ネルスキュラ"
+        "シーウー"
       ],
-      "difficulty": 4,
+      "difficulty": 5,
       "rewards": [
-        "フワフワ卵"
+        "シルドニンニク"
       ],
-      "period": "9月2日(水)9:00〜9月9日(水)8:59",
-      "condition": "上位★4（HR9〜）",
+      "period": "9月9日(水)9:00〜9月16日(水)8:59",
+      "condition": "上位★5（HR21〜）",
       "category": "active_limited"
     },
     {
@@ -1047,17 +1047,18 @@
       "category": "permanent"
     },
     {
-      "id": "q_363068b635",
-      "title": "隠れ場所は油断の隙間",
+      "id": "q_de34d54aa9",
+      "title": "凍え知れ、安寧の睡郷",
       "monsters": [
-        "シーウー"
+        "歴戦王ジンダハド"
       ],
-      "difficulty": 5,
+      "difficulty": 9,
       "rewards": [
-        "シルドニンニク"
+        "防具「ダハディラγ」",
+        "限定チャーム"
       ],
-      "period": "9月9日(水)9:00〜9月16日(水)8:59",
-      "condition": "上位★5（HR21〜）",
+      "period": "9月23日(水)9:00〜10月7日(水)8:59",
+      "condition": "上位★9（HR100〜）",
       "category": "upcoming"
     },
     {
@@ -1086,21 +1087,6 @@
       ],
       "period": "3月19日(木)9:00〜4月2日(木)8:59",
       "condition": "上位★10（HR100〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_de34d54aa9",
-      "title": "凍え知れ、安寧の睡郷",
-      "monsters": [
-        "歴戦王ジンダハド"
-      ],
-      "difficulty": 9,
-      "rewards": [
-        "防具「ダハディラγ」",
-        "限定チャーム"
-      ],
-      "period": "1月7日(水)9:00〜1月21日(水)8:59",
-      "condition": "上位★9（HR100〜）",
       "category": "ended"
     },
     {
@@ -1170,6 +1156,20 @@
         "マッドシュリンプ"
       ],
       "period": "8月26日(水)9:00〜9月2日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_5bd3d14e29",
+      "title": "影蜘蛛、頂を歩く",
+      "monsters": [
+        "ネルスキュラ"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "フワフワ卵"
+      ],
+      "period": "9月2日(水)9:00〜9月9日(水)8:59",
       "condition": "上位★4（HR9〜）",
       "category": "ended"
     },
