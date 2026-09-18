@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-11T17:00:04.172Z",
+  "updatedAt": "2026-09-18T17:00:01.635Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
-      "id": "q_363068b635",
-      "title": "隠れ場所は油断の隙間",
+      "id": "q_c8539706b0",
+      "title": "極熱重鎧グラビモス",
       "monsters": [
-        "シーウー"
+        "歴戦グラビモス"
       ],
-      "difficulty": 5,
+      "difficulty": 6,
       "rewards": [
-        "シルドニンニク"
+        "各地の追加食材が集めやすい"
       ],
-      "period": "9月9日(水)9:00〜9月16日(水)8:59",
-      "condition": "上位★5（HR21〜）",
+      "period": "9月16日(水)9:00〜11月4日(水)8:59",
+      "condition": "上位★6（HR31〜）",
       "category": "active_limited"
     },
     {
@@ -1062,20 +1062,6 @@
       "category": "upcoming"
     },
     {
-      "id": "q_c8539706b0",
-      "title": "極熱重鎧グラビモス",
-      "monsters": [
-        "歴戦グラビモス"
-      ],
-      "difficulty": 6,
-      "rewards": [
-        "各地の追加食材が集めやすい"
-      ],
-      "period": "9月16日(水)9:00〜11月4日(水)8:59",
-      "condition": "上位★6（HR31〜）",
-      "category": "upcoming"
-    },
-    {
       "id": "q_b3857204c8",
       "title": "生き誇れ、野生の仔",
       "monsters": [
@@ -1142,6 +1128,20 @@
         "限定チャーム"
       ],
       "period": "7月9日(水)9:00〜7月23日(水)8:59",
+      "condition": "上位★5（HR21〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_363068b635",
+      "title": "隠れ場所は油断の隙間",
+      "monsters": [
+        "シーウー"
+      ],
+      "difficulty": 5,
+      "rewards": [
+        "シルドニンニク"
+      ],
+      "period": "9月9日(水)9:00〜9月16日(水)8:59",
       "condition": "上位★5（HR21〜）",
       "category": "ended"
     },
