@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-09-18T17:00:01.635Z",
+  "updatedAt": "2026-09-25T17:00:02.436Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
+    {
+      "id": "q_de34d54aa9",
+      "title": "凍え知れ、安寧の睡郷",
+      "monsters": [
+        "歴戦王ジンダハド"
+      ],
+      "difficulty": 9,
+      "rewards": [
+        "防具「ダハディラγ」",
+        "限定チャーム"
+      ],
+      "period": "9月23日(水)9:00〜10月7日(水)8:59",
+      "condition": "上位★9（HR100〜）",
+      "category": "active_limited"
+    },
     {
       "id": "q_c8539706b0",
       "title": "極熱重鎧グラビモス",
@@ -1045,21 +1060,6 @@
       "period": "2月18日(水)9:00〜",
       "condition": "上位★4（HR9〜）",
       "category": "permanent"
-    },
-    {
-      "id": "q_de34d54aa9",
-      "title": "凍え知れ、安寧の睡郷",
-      "monsters": [
-        "歴戦王ジンダハド"
-      ],
-      "difficulty": 9,
-      "rewards": [
-        "防具「ダハディラγ」",
-        "限定チャーム"
-      ],
-      "period": "9月23日(水)9:00〜10月7日(水)8:59",
-      "condition": "上位★9（HR100〜）",
-      "category": "upcoming"
     },
     {
       "id": "q_b3857204c8",
