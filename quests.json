@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:00:02.039Z",
+  "updatedAt": "2026-10-23T17:00:01.974Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -1061,6 +1061,20 @@
       "category": "upcoming"
     },
     {
+      "id": "q_d5d685f95f",
+      "title": "晩飯時のイグニッション",
+      "monsters": [
+        "ケマトリス"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "クナファチーズ"
+      ],
+      "period": "11月4日(水)9:00〜11月11日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "upcoming"
+    },
+    {
       "id": "q_de34d54aa9",
       "title": "凍え知れ、安寧の睡郷",
       "monsters": [
@@ -1213,20 +1227,6 @@
       ],
       "period": "8月19日(水)9:00〜8月26日(水)8:59",
       "condition": "上位★5（HR9〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_d5d685f95f",
-      "title": "晩飯時のイグニッション",
-      "monsters": [
-        "ケマトリス"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "クナファチーズ"
-      ],
-      "period": "7月1日(水)9:00〜7月8日(水)8:59",
-      "condition": "上位★4（HR9〜）",
       "category": "ended"
     }
   ]
