@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T17:00:01.974Z",
+  "updatedAt": "2026-10-30T17:00:02.903Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
+    {
+      "id": "q_b3857204c8",
+      "title": "生き誇れ、野生の仔",
+      "monsters": [
+        "歴戦王アルシュベルド"
+      ],
+      "difficulty": 10,
+      "rewards": [
+        "限定チャーム"
+      ],
+      "period": "10月28日(木)9:00〜11月11日(木)8:59",
+      "condition": "上位★10（HR100〜）",
+      "category": "active_limited"
+    },
     {
       "id": "q_c8539706b0",
       "title": "極熱重鎧グラビモス",
@@ -1047,17 +1061,17 @@
       "category": "permanent"
     },
     {
-      "id": "q_b3857204c8",
-      "title": "生き誇れ、野生の仔",
+      "id": "q_3f8db8c586",
+      "title": "ババコンガ、垂涎のアレを好む",
       "monsters": [
-        "歴戦王アルシュベルド"
+        "ババコンガ"
       ],
-      "difficulty": 10,
+      "difficulty": 5,
       "rewards": [
-        "限定チャーム"
+        "ヨダレダケ"
       ],
-      "period": "10月28日(木)9:00〜11月11日(木)8:59",
-      "condition": "上位★10（HR100〜）",
+      "period": "11月11日(水)9:00〜11月18日(水)8:59",
+      "condition": "上位★5（HR9〜）",
       "category": "upcoming"
     },
     {
@@ -1213,20 +1227,6 @@
       ],
       "period": "5月13日(水)9:00〜5月27日(水)8:59",
       "condition": "上位★5（HR16〜）",
-      "category": "ended"
-    },
-    {
-      "id": "q_3f8db8c586",
-      "title": "ババコンガ、垂涎のアレを好む",
-      "monsters": [
-        "ババコンガ"
-      ],
-      "difficulty": 5,
-      "rewards": [
-        "ヨダレダケ"
-      ],
-      "period": "8月19日(水)9:00〜8月26日(水)8:59",
-      "condition": "上位★5（HR9〜）",
       "category": "ended"
     }
   ]
