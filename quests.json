@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:00:02.903Z",
+  "updatedAt": "2026-11-06T17:00:03.119Z",
   "source": "https://game8.jp/mhwilds/674407",
   "quests": [
     {
@@ -17,17 +17,17 @@
       "category": "active_limited"
     },
     {
-      "id": "q_c8539706b0",
-      "title": "極熱重鎧グラビモス",
+      "id": "q_d5d685f95f",
+      "title": "晩飯時のイグニッション",
       "monsters": [
-        "歴戦グラビモス"
+        "ケマトリス"
       ],
-      "difficulty": 6,
+      "difficulty": 4,
       "rewards": [
-        "各地の追加食材が集めやすい"
+        "クナファチーズ"
       ],
-      "period": "9月16日(水)9:00〜11月4日(水)8:59",
-      "condition": "上位★6（HR31〜）",
+      "period": "11月4日(水)9:00〜11月11日(水)8:59",
+      "condition": "上位★4（HR9〜）",
       "category": "active_limited"
     },
     {
@@ -1061,6 +1061,20 @@
       "category": "permanent"
     },
     {
+      "id": "q_afd37d4eea",
+      "title": "狂おしくもププロポル",
+      "monsters": [
+        "ププロポル"
+      ],
+      "difficulty": 4,
+      "rewards": [
+        "マッドシュリンプ"
+      ],
+      "period": "11月18日(水)9:00〜11月25日(水)8:59",
+      "condition": "上位★4（HR9〜）",
+      "category": "upcoming"
+    },
+    {
       "id": "q_3f8db8c586",
       "title": "ババコンガ、垂涎のアレを好む",
       "monsters": [
@@ -1072,20 +1086,6 @@
       ],
       "period": "11月11日(水)9:00〜11月18日(水)8:59",
       "condition": "上位★5（HR9〜）",
-      "category": "upcoming"
-    },
-    {
-      "id": "q_d5d685f95f",
-      "title": "晩飯時のイグニッション",
-      "monsters": [
-        "ケマトリス"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "クナファチーズ"
-      ],
-      "period": "11月4日(水)9:00〜11月11日(水)8:59",
-      "condition": "上位★4（HR9〜）",
       "category": "upcoming"
     },
     {
@@ -1174,20 +1174,6 @@
       "category": "ended"
     },
     {
-      "id": "q_afd37d4eea",
-      "title": "狂おしくもププロポル",
-      "monsters": [
-        "ププロポル"
-      ],
-      "difficulty": 4,
-      "rewards": [
-        "マッドシュリンプ"
-      ],
-      "period": "8月26日(水)9:00〜9月2日(水)8:59",
-      "condition": "上位★4（HR9〜）",
-      "category": "ended"
-    },
-    {
       "id": "q_5bd3d14e29",
       "title": "影蜘蛛、頂を歩く",
       "monsters": [
@@ -1213,6 +1199,20 @@
       ],
       "period": "6月10日(水)9:00〜6月24日(水)8:59",
       "condition": "上位★8（HR50〜）",
+      "category": "ended"
+    },
+    {
+      "id": "q_c8539706b0",
+      "title": "極熱重鎧グラビモス",
+      "monsters": [
+        "歴戦グラビモス"
+      ],
+      "difficulty": 6,
+      "rewards": [
+        "各地の追加食材が集めやすい"
+      ],
+      "period": "9月16日(水)9:00〜11月4日(水)8:59",
+      "condition": "上位★6（HR31〜）",
       "category": "ended"
     },
     {
